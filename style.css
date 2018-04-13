@@ -23,6 +23,7 @@
 }
 
 .container label {
+	display: block;
 	padding: 5px 20px;
 	margin-right: 10px;
 	border-top-right-radius: 3px;
