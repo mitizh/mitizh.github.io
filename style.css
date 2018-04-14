@@ -63,7 +63,7 @@
 .tab {
 	display: none;
 	width: 457px;
-	height: 248px;
+	min-height: 248px;
 	padding: 15px;
 	border-top-right-radius: 3px;
 	border-bottom-right-radius: 3px;
@@ -294,6 +294,7 @@
 	-ms-flex-wrap: wrap;
 	-o-flex-wrap: wrap;
 	flex-wrap: wrap;
+	height: 218px;	
 }
 
 .friend-card {
